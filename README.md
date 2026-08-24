@@ -1,21 +1,36 @@
-# Smart India Hackathon 2026 — Problem Statements (Structured Dataset)
+# SIHPS - Smart India Hackathon Problem Statements
 
-A cleaned, structured, and easy-to-read version of the official **Smart India Hackathon (SIH) 2026** Problem Statements list, split by category (Hardware / Software) and sorted alphabetically by Theme.
+A community-maintained, easy-to-use collection of **Smart India Hackathon (SIH)** Problem Statements, organized year-wise.
 
-The original data is published as an interactive table on the [SIH website](https://sih.gov.in) and is not easy to filter, sort, or share. This repo re-organizes it into simple, portable files — Excel and PDF — for quick browsing, filtering, and sharing with teammates.
+The official SIH portal lists problem statements in a way that's hard to filter, sort, or share. This repo reformats them into clean, structured files (Excel + PDF) so students and teams can quickly browse, shortlist, and plan around them - without digging through a clunky web table every time.
 
-## Contents
+This repo will be updated every year as new SIH editions are announced, so bookmark it and check back for the latest batch.
+
+---
+
+## 📁 Available Years
+
+| Year | Folder | Hardware PS | Software PS | Status |
+|---|---|---|---|---|
+| 2026 | [`SIHPS2026`](./SIHPS2026) | 54 | 172 | ✅ Available |
+
+*(More years will be added here as they're released.)*
+
+---
+
+## 📂 What's Inside Each Year's Folder
+
+Every year-wise folder follows the same structure:
 
 | File | Description |
 |---|---|
-| `SIH_Hardware_Problem_Statements.xlsx` | All 54 Hardware problem statements |
-| `SIH_Hardware_Problem_Statements.pdf` | PDF version of the Hardware sheet, formatted for printing/reading |
-| `SIH_Software_Problem_Statements.xlsx` | All 172 Software problem statements |
-| `SIH_Software_Problem_Statements.pdf` | PDF version of the Software sheet, formatted for printing/reading |
+| `SIH_Hardware_Problem_Statements.xlsx` | All Hardware problem statements for that year |
+| `SIH_Hardware_Problem_Statements.pdf` | PDF version, formatted for printing/reading |
+| `SIH_Software_Problem_Statements.xlsx` | All Software problem statements for that year |
+| `SIH_Software_Problem_Statements.pdf` | PDF version, formatted for printing/reading |
+| `README.md` | Year-specific notes (source, deadlines, counts) |
 
-## Columns
-
-Each sheet uses the same five-column structure:
+### Columns used in every sheet
 
 | Column | Description |
 |---|---|
@@ -23,29 +38,46 @@ Each sheet uses the same five-column structure:
 | **Problem Statement** | Full title/description of the problem statement |
 | **Category** | `Hardware` or `Software` |
 | **Ps Number** | Official SIH problem statement number (e.g. `SIH26001`) |
-| **Theme** | The SIH theme the problem statement falls under (e.g. Disaster Management, Robotics and Drones, Smart Automation) |
+| **Theme** | The SIH theme it falls under (e.g. Disaster Management, Robotics and Drones, Smart Automation) |
 
 Rows are sorted **alphabetically by Theme** so related problem statements are grouped together.
 
-## Formatting
+---
 
-- Font: **Arial**, 12 pt bold headers / 11 pt body text
-- Header row is bold and frozen for easy scrolling
-- All cells have thin borders
+## 🎨 Formatting Standards
+
+Every file in this repo, regardless of year, follows the same simple formatting so it's consistent and easy to read:
+
+- Font: **Arial** - 12 pt bold headers, 11 pt body text
+- Bold, frozen header row for easy scrolling
+- Thin borders on all cells
 - Text wraps within cells; row heights auto-adjust so nothing is cut off
-- No colors or extra styling — kept plain and readable
+- No colors or extra styling - kept plain and readable
 - PDFs are landscape-oriented with the header row repeated on every page
 
-## Source
+---
 
-Data compiled from the official SIH 2026 Problem Statements page (Ministry of Education's Innovation Cell / AICTE / Smart India Hackathon), current as of the submission deadline listed on the source page (**20 September 2026**).
+## 🔗 Source
 
-> This is an unofficial, community-formatted copy for convenience. For the authoritative and most up-to-date list, always refer to the official SIH portal.
+Data is compiled from the official SIH Problem Statements page for each respective year (Ministry of Education's Innovation Cell / AICTE / Smart India Hackathon).
 
-## Usage
+> This is an **unofficial**, community-formatted copy shared for convenience. Always cross-check with the official SIH portal for the most up-to-date and authoritative list.
 
-- Open the `.xlsx` files in Excel, Google Sheets, or LibreOffice Calc to filter/sort by Organization, Category, or Theme.
-- Use the `.pdf` files for quick reading or printing.
+---
+
+## 🙌 For Students
+
+- Use the `.xlsx` files to filter/sort by Organization, Category, or Theme when shortlisting a problem statement for your team.
+- Use the `.pdf` files for quick reading, printing, or sharing in group chats.
+- Feel free to fork or star this repo if you find it useful - and share it with your teammates or juniors prepping for SIH.
+
+---
+
+## 📬 Contributions & Updates
+
+This repo is maintained manually and updated whenever a new SIH cycle's problem statements are released. If you spot an error or an outdated entry, feel free to open an issue or a pull request.
+
+---
 
 ## License
 
