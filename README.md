@@ -42,21 +42,6 @@ Every year-wise folder follows the same structure:
 
 Rows are sorted **alphabetically by Theme** so related problem statements are grouped together.
 
----
-
-## 🎨 Formatting Standards
-
-Every file in this repo, regardless of year, follows the same simple formatting so it's consistent and easy to read:
-
-- Font: **Arial** - 12 pt bold headers, 11 pt body text
-- Bold, frozen header row for easy scrolling
-- Thin borders on all cells
-- Text wraps within cells; row heights auto-adjust so nothing is cut off
-- No colors or extra styling - kept plain and readable
-- PDFs are landscape-oriented with the header row repeated on every page
-
----
-
 ## 🔗 Source
 
 Data is compiled from the official SIH Problem Statements page for each respective year (Ministry of Education's Innovation Cell / AICTE / Smart India Hackathon).
