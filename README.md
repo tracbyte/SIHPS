@@ -37,7 +37,7 @@ Every year-wise folder follows the same structure:
 | **Organization** | The ministry, PSU, or organization that submitted the problem statement |
 | **Problem Statement** | Full title/description of the problem statement |
 | **Category** | `Hardware` or `Software` |
-| **Ps Number** | Official SIH problem statement number (e.g. `SIH26001`) |
+| **Ps Number** | Official SIH problem statement number (e.g. `SIHxx001`) |
 | **Theme** | The SIH theme it falls under (e.g. Disaster Management, Robotics and Drones, Smart Automation) |
 
 Rows are sorted **alphabetically by Theme** so related problem statements are grouped together.
