@@ -26,9 +26,10 @@ Every year-wise folder follows the same structure:
 |---|---|
 | `SIH_Hardware_Problem_Statements.xlsx` | All Hardware problem statements for that year |
 | `SIH_Hardware_Problem_Statements.pdf` | PDF version, formatted for printing/reading |
+| `SIH_Hardware_Problem_Statements_Detailed.pdf` | Detailed PDF version, with Background/Description/Expected Solution |
 | `SIH_Software_Problem_Statements.xlsx` | All Software problem statements for that year |
 | `SIH_Software_Problem_Statements.pdf` | PDF version, formatted for printing/reading |
-| `README.md` | Year-specific notes (source, deadlines, counts) |
+| `SIH_Software_Problem_Statements_Detailed.pdf` | Detailed PDF version, with Background/Description/Expected Solution |
 
 ### Columns used in every sheet
 
