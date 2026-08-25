@@ -8,13 +8,13 @@ This repo will be updated every year as new SIH editions are announced, so bookm
 
 ---
 
-## 📁 Available Years
+## 📁 CLICK THE PS FOR LATEST YEAR
 
 | Year | Folder | Hardware PS | Software PS | Status |
 |---|---|---|---|---|
 | 2026 | [`SIHPS2026`](./SIHPS2026) | 54 | 172 | ✅ Available |
 
-*(More years will be added here as they're released.)*
+*(This table grows by one row per year - a new `SIHPSyyyy` folder + row are added as soon as that year's problem statements are released. The folder structure and column layout described below stay identical across years, so older years never need to be touched when a new one is added.)*
 
 ---
 
@@ -35,12 +35,15 @@ Every year-wise folder follows the same structure:
 | Column | Description |
 |---|---|
 | **Organization** | The ministry, PSU, or organization that submitted the problem statement |
-| **Problem Statement** | Full title/description of the problem statement |
+| **Problem Statement** | Full title of the problem statement |
+| **Background** | Context on the real-world problem - why it exists and who it affects |
+| **Description** | Detailed explanation of what the solution needs to do |
+| **Expected Solution** | The specific deliverables/capabilities the final solution is expected to have |
 | **Category** | `Hardware` or `Software` |
 | **Ps Number** | Official SIH problem statement number (e.g. `SIHxx001`) |
 | **Theme** | The SIH theme it falls under (e.g. Disaster Management, Robotics and Drones, Smart Automation) |
 
-Rows are sorted **alphabetically by Theme** so related problem statements are grouped together.
+Rows are sorted **alphabetically by Theme** so related problem statements are grouped together. Note: a small number of problem statements were published by SIH with only a partial write-up (e.g. Expected Solution only, no separate Background/Description) - for those, the available columns are filled in and the rest are left blank rather than guessed.
 
 ## 🔗 Source
 
