@@ -62,9 +62,34 @@ Data is compiled from the official SIH Problem Statements page for each respecti
 
 ---
 
-## 📬 Contributions & Updates
+## 🤝 How to Contribute
 
-This repo is maintained manually and updated whenever a new SIH cycle's problem statements are released. If you spot an error or an outdated entry, feel free to open an issue or a pull request.
+We love community contributions! If you want to help keep this repository updated with accurate data, follow this straightforward workflow:
+
+1. **Fork this repository:** Click the **Fork** button at the top-right corner of this page to create your own copy.
+2. **Clone your fork locally:** Download it to your computer using your terminal:
+   ```bash
+   git clone https://github.com
+   cd SIHPS
+   ```
+3. **Create a fresh feature branch:** Give your branch a clear name:
+   ```bash
+   git checkout -b update-sih-statements
+   ```
+4. **Make your modifications:** Add new datasets or correct typos. Make sure your sheets exactly match our defined column headers and are sorted alphabetically by theme.
+5. **Commit and push your additions:**
+   ```bash
+   git add .
+   git commit -m "Add new problem statements data"
+   git push origin update-sih-statements
+   ```
+6. **Submit a Pull Request:** Navigate back to this original repository on GitHub. Click **Compare & pull request**, describe your updates, and send it over. We will review and merge it promptly!
+
+---
+
+## 📬 Contact & Support
+
+This repository is maintained and managed manually. If you spot structural inaccuracies or want to request additions for missing details, please open a formal **Issue** or drop a detailed **Pull Request**.
 
 ---
 
